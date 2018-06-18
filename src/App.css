@@ -1,0 +1,10 @@
+
+
+.App {
+  display: block;
+  float: none;
+}
+.img{
+  max-width: 100%;
+  height: auto;
+}

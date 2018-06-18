@@ -1,0 +1,88 @@
+{
+  "hashUrl": "https://promocje.open.pl/lpp/kalkulator-hipoteczny-2/?hash=de606fdfee2de8631a850e5334a03bfe",
+  "buttonText": "Sprawdź",
+  "developer": "https://www.onet.pl",
+  "note" :"Szczegóły oferty dostępne w oddziałach Open Finance S.A. Informujemy, że ostateczny kształt oferty kredytowej jest wyłączną decyzją banku, opartą na analizie indywidualnej sytuacji Klienta, dlatego też zaproponowana Klientowi wartość kredytu oraz wysokość raty mogą się różnić od obliczeń dokonanych w oddziale Open Finance S.A. Bank podejmuje decyzję o udzieleniu kredytu po dokonaniu oceny zdolności kredytowej wnioskodawcy, biorąc pod uwagę m.in. dochód wnioskodawcy i stan spłaty jego dotychczasowych zobowiązań. <br><br>Open Finance S.A., jako pośrednik kredytu hipotecznego informuje, że współpracuje za wynagrodzeniem na podstawie umowy agencyjnej, w zakresie wykonywania czynności faktycznych, o których mowa w art. 6a Ustawy prawo bankowe z dnia 29 sierpnia 1997 r. (tj. Dz. U. z 2016 r. poz. 1988 z późn. zm.), z poniżej wskazanymi Kredytodawcami: Alior Bank S.A., BOŚ S.A., BZ WBK S.A., Deutsche Bank Polska S.A., Euro Bank S.A., ING Bank Śląski S.A., mBank S.A., Bank Millennium S.A., PKO BP S.A., PKO Bank Hipoteczny S.A., Bank Pocztowy S.A., Raiffeisen Bank Polska S.A., Bank BGŻ BNP Paribas S.A., Bank Pekao S.A. oraz Pekao Bank Hipoteczny S.A. Według stanu na dzień 01.01.2018 r.<br><br> Open Finance S.A. informuje, że jest powiązanym pośrednikiem kredytu hipotecznego w rozumieniu art. 4 pkt 16 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. 2017 r., poz. 819 z późn. zm. - dalej, jako UoKH). Jednocześnie Open Finance S.A. informuje, że nie świadczy usług doradczych w rozumieniu art. 4 pkt 26 UoKH.<br><br> Kontakt z infolinią Open Finance S.A. pod numerem 801 600 200. Wszystkie rozmowy telefoniczne prowadzone z konsultantami infolinii Open Finance S.A., w trosce o jakość usług, są rejestrowane. Koszt połączenia z infolinią Open Finance S.A. zgodny ze stawką operatora.<br><br> Usługa dostępna w oddziale.<br><br> Open Finance Spółka Akcyjna z siedzibą w Warszawie przy ul. Przyokopowej 33, 01-208 Warszawa wpisana do rejestru przedsiębiorców prowadzonego przez Sąd Rejonowy dla m.st. Warszawy XII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem KRS 0000196186, NIP 5213280836, REGON 015672908, której kapitał zakładowy wynosi 743 566,63 zł, tel. 22 427 47 00, fax 22 276 20 75, e-mail: kontakt@open.pl.",
+  "peoples": [
+    {
+      "id": 1,
+      "company_name": "Open Finance",
+      "title": "Grzegorz Węgorzewski",
+      "email": "grzegorz.wegorzewski@open.pl",
+      "tel": "+48 782 910 591",
+      "position": "Ekspert Finansowy"
+
+    },
+    {
+      "id": 1,
+      "company_name": "Open Finance",
+      "title": "Pankracy Przedpełski-Kłos",
+      "email": "pankracy.przedpelski@opendirect.pl",
+      "tel": "+48 000 000 000",
+      "position": "Ekspert Finansowy"
+    }
+  ],
+  "banks" :[
+    {
+      "image": "images/5.svg",
+      "text": "Weryfikacja <br/>zdolność kredytowej <br/><strong> w 19 bankach</strong>"
+    },
+    {
+      "image": "images/6.svg",
+      "text": "Profesjonalne wsparcie <br/><strong>w wypełnieniu <br/>dokumentacji</strong>"
+    },
+    {
+      "image": "images/7.svg",
+      "text": "Ekspercka rekomendacja <br/>przy wyborze <br/><strong> najkorzystniejszej oferty</strong>"
+    },
+    {
+      "image": "images/8.svg",
+      "text": "Pomoc w <strong>skompletowaniu</strong> <br/>niezbędnej <strong>dokumentacji</strong>"
+    },
+    {
+      "image": "images/9.svg",
+      "text": "Prowadzenie <br/><strong>negocjacji w bankach</strong>"
+    },
+    {
+      "image": "images/10.svg",
+      "text": "Kompleksowe opieka: <br/><strong>&quote;jeden Ekspert – wiele możliwości&quote;</strong>"
+    }
+
+  ],
+  "earn":[
+    {
+      "image" : "images/first.svg",
+      "text": "Deweloperski <br/><strong>Pakiet <br/>Korzyści </strong><sup>1</sup>"
+    },
+    {
+      "image" : "images/second.svg",
+      "text": "<strong>Zniżka</strong> na pierwsze <br/>zakupy <br/><strong>w Leroy Merlin</strong><sup>2</sup>"
+    },
+    {
+      "image" : "images/third.svg",
+      "text": "<strong>Projekt</strong> dowolnego <br/>pomieszczenia <br/><strong> w Leroy Merlin</strong> <sup>3</sup>"
+    },
+    {
+      "image" : "images/fourth.svg",
+      "text": "<strong>Zniżka</strong> na zakupy <br/> w ponad <br/><strong>700 sklepach</strong> <sup>4</sup>"
+    }
+  ],
+  "expert":[
+    {
+      "image" : "images/11.svg",
+      "text": "kredytu na <strong>zakup </strong><br>mieszkania, <br>domu, działki"
+    },
+    {
+      "image" : "images/12.svg",
+      "text": "kredytu <strong>na remont</strong><br> lub wykończenie <br>mieszkania"
+    },
+    {
+      "image" : "images/13.svg",
+      "text": "kredytu <strong>na konsolidację</strong><br> istniejących <br>zobowiązań"
+    },
+    {
+      "image" : "images/14.svg",
+      "text": "<strong>pożyczki <br> hipotecznej</strong> <br>na dowolny cel"
+    }
+  ]
+}

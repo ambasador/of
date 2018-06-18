@@ -1,0 +1,71 @@
+.contact{
+    display: block;
+}
+.contact--box{
+    background: rgb(85, 9, 138);
+    background: linear-gradient(135deg, rgb(85, 9, 138) 0%, rgb(85, 9, 138) 60%, rgb(85, 9, 138) 60%, rgb(102, 0, 153) 60%,rgb(102,0,153) 100%);
+    margin: 20px auto;
+    display: block;
+    float: none;
+    overflow: hidden;
+}
+.contact--icon{
+    float: left;
+    position: relative;
+    width: 150px;
+    height: 150px;
+
+}
+
+.contact--icon::after{
+    content: " ";
+    position: absolute;
+    right:0;
+    top:20px;
+    bottom: 20px;
+    width: 1px;
+    background: #fff;
+}
+.contact--details{
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: #f60;
+}
+.contact--details_fullname{
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+.contact--details_fullname span{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+.contact--details__phone a, .contact--details__mail a{
+    color: #fff;
+    text-decoration: none;
+}
+@media(max-width: 991px){
+    .contact--icon{
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+    .contact--icon img{
+        display: block;
+        margin: 0 auto;
+    }
+    .contact--icon::after{
+        display: none;
+    }
+    .contact--details{
+        float: none;
+        display: block;
+        font-size: 18px;
+        text-align: center;
+    }
+}

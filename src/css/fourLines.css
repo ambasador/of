@@ -1,0 +1,40 @@
+.four--lines{
+    text-align: center;
+}
+.four--lines h2{
+    font-size: 34px;
+    color: #609;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+.four--lines__box{
+	text-align: center;
+	display: block;
+	margin: 5px auto;
+}
+.four--lines__box img{
+	display: block;
+	margin: 5px auto;
+	transform: scale(1);
+    transition: transform .5s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+.four--lines__box img:hover{
+    transform: scale(1.2);
+}
+.four--lines__box p{
+	text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    color: #666;
+}
+.four--lines__box p strong{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: #404041;
+}
+@media(max-width:480px){
+    .four--lines h2{
+        font-size: 30px;
+    }
+}

@@ -1,0 +1,24 @@
+.slogan{
+    display: block;
+    text-align: center;
+    float: none;
+}
+.slogan h4{
+    text-align: center;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    line-height: 28px;
+    font-weight: 300;
+    color: #404041;
+}
+.slogan h4 strong{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: #f60;
+}
+@media (max-width: 480px) {
+    .slogan h4{
+        font-size: 14px;
+        line-height: 18px;
+    }
+}

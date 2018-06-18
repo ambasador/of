@@ -1,0 +1,89 @@
+.top{
+    background: url("../images/top.jpg") center bottom  no-repeat;
+    background-size: cover;
+    height: 596px;
+}
+.logo{
+    float: right;
+    padding: 12px 0 10px 0;
+}
+a.back{
+    color: #609;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    padding: 66px 0 0 10px;
+    transition: color .5s ease-in-out;
+}
+a.back:before{
+    content:"\f100";
+    position: absolute;
+    left: 0;
+    top: 68px;
+    font-family: "FontAwesome", sans-serif;
+}
+a.back:hover{
+    color: #f60;
+}
+
+@media (max-width: 767px) {
+    a.back{
+
+        text-align: center;
+        padding: 5px 0 5px 10px;
+    }
+    a.back:before{
+        top:5px;
+    }
+    .logo{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        float: none;
+    }
+    .h1.header--h1{
+        text-align: center;
+    }
+}
+h1.header--h1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 53px;
+    color: #f60;
+    text-shadow: 0 0 5px rgba(255,255,255, .6);
+}
+h1.header--h1 span{
+    color: #609;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+@media (max-width: 767px) {
+    a.back{
+
+        text-align: center;
+        padding: 5px 0 5px 10px;
+    }
+    a.back:before{
+        top:5px;
+    }
+    .logo{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        float: none;
+    }
+    h1.header--h1{
+        text-align: center;
+    }
+}
+@media (max-width: 480px) {
+    h1.header--h1{
+        font-size: 30px;
+    }
+    .top{
+        padding: 20px 0;
+        height: auto;
+    }
+}

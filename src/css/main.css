@@ -1,0 +1,9 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    font: 14px 'Roboto', sans-serif;
+    background: #f5f4f0;
+}
+.footer{
+    font-weight: 300;
+}
